@@ -75,7 +75,7 @@ Esta primera entrega se centra en:
 
 **Miguel Ángel Di Rocco**  
 📧 Email: [migueldirocco.ds@gmail.com](mailto:migueldirocco.ds@gmail.com)  
-🔗 LinkedIn: (https://www.linkedin.com/in/miguelangeldirocco/)  
+🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/miguelangeldirocco/)  
 🐙 GitHub: [MiguelAngelDiRocco](https://github.com/MiguelAngelDiRocco)
 
 ---
