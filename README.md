@@ -13,7 +13,7 @@
 
 📓 **Notebook Principal:** [Google Colab](https://colab.research.google.com/drive/1fyTevP6IlGcZjw8F28g9cc_LqmaCPa_s?usp=sharing) 
 📊 **Dataset Original:** [Global Weather Repository - Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)
-
+   **Presentación:** https://www.canva.com/design/DAG2XdBF6fg/A1VKKW1ImAroj47nZuVKyg/view?utm_content=DAG2XdBF6fg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he608a2bdae
 ---
 
 ## 📋 Descripción General
